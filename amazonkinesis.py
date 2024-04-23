@@ -27,8 +27,8 @@ import csv
 import time
 
 # AWS credentials and region
-aws_access_key_id = 'AKIAZUHXIJF6A6K3RU6I'
-aws_secret_access_key = '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'
+aws_access_key_id = '*********************' ##Hidden for security purposes
+aws_secret_access_key = '**********************' #Hidden for security purposes
 region_name = 'us-east-2'
 
 # CSV file path (using raw string to handle backslashes)
