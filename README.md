@@ -16,3 +16,8 @@ The project's objective is to systematically evaluate Apache Beam and Amazon Kin
 2. Install the required Python libraries listed above
 3. Run preprocess.py to preprocess the dataset and generate the preprocessed_data.csv file.
 4. Open and run ApacheBeam.ipynb and amazonkinesis.py (order doesn't matter)
+
+# Contributors
+1. Manvesh Lidhar
+2. Dhruvil Shah
+3. Umang Sood
